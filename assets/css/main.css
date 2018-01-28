@@ -932,7 +932,6 @@ table tfoot td {
   -webkit-border-radius: 100%;
           border-radius: 100%;
   overflow: hidden;
-  background-color: #333030;
 }
 
 .about img {
@@ -953,7 +952,6 @@ table tfoot td {
 }
 
 .about .author-name {
-  font-family: 'PT Serif', serif;
   margin: 0 0 10px;
   position: relative;
   padding-bottom: 15px;
@@ -961,22 +959,6 @@ table tfoot td {
   text-transform: uppercase;
   color: #333030;
   font-weight: 700;
-}
-
-.about .author-name::after {
-  content: "";
-  position: absolute;
-  left: 50%;
-  -webkit-transform: translateX(-50%);
-      -ms-transform: translateX(-50%);
-          transform: translateX(-50%);
-  bottom: 0;
-  display: block;
-  width: 7px;
-  height: 7px;
-  -webkit-border-radius: 100%;
-          border-radius: 100%;
-  background-color: #515151;
 }
 
 .about p {
@@ -1146,7 +1128,7 @@ footer .copyright {
 }
 
 .post .post-content .post-title a {
-  font-family: 'PT Serif', serif;
+  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
   text-decoration: none;
   color: #263959;
 }
@@ -1213,6 +1195,10 @@ a.newer-posts:hover {
 .page-cover-image .page-image {
   width: 100%;
   height: 100%;
+}
+
+.page-post-content a, .page-post-content a:active, .page-post-content a:hover, .page-post-content a:visited {
+  color: #515151;
 }
 
 .page-footer {

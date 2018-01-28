@@ -31,6 +31,12 @@
   }
 }
 
+.page-post-content {
+  a, a:active, a:hover, a:visited {
+    color: $body-color;
+  }
+}
+
 .page-footer {
   display: flex;
   justify-content: space-between;

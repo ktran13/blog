@@ -8,6 +8,9 @@ node_modules/
 *.DS_Store
 .AppleDouble
 .LSOverride
+assets/.DS_Store
+assets/*/.DS_Store
+Gemfile.lock
 
 # Icon must end with two \r
 Icon
