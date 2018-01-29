@@ -7,7 +7,7 @@ img: 2018-01-28-washington-dc.jpg
 tags: [USDS, itinerary, solotravel]
 ---
 
-The United States Digital Service (USDS) was created [under the Obama administration after the healthcare.gov disaster](https://www.fastcompany.com/3046756/obama-and-his-geeks) because the US government wanted and needed __to create a tech pipeline of talent to transform the way government uses and delivers technology.__ They created a tour-of-duty model for tech folks to join government on 2-4 year term-limited positions and use their tech skills to improve government services. You can see the USDS reports to Congress and the organization's amazing impact over the last two years [here](https://www.usds.gov/report-to-congress/2016/) and [here](https://www.usds.gov/report-to-congress/2017/07/).
+The United States Digital Service (USDS) was created [under the Obama administration after the healthcare.gov disaster](https://www.fastcompany.com/3046756/obama-and-his-geeks) because the US government wanted and needed __to create a tech pipeline of talent to transform the way government uses and delivers technology.__ They created a tour-of-duty model to encourage tech folks to join government for 2-4 year (or less) term-limited positions and use their tech skills to improve government services. You can see the USDS reports to Congress and the organization's amazing impact over the last two years [here](https://www.usds.gov/report-to-congress/2016/) and [here](https://www.usds.gov/report-to-congress/2017/07/).
 
 I’m honored to have this opportunity to contribute my tech skills to the government after living in DC and being an engineer in the federal government consulting space for 2.5 years.
 
