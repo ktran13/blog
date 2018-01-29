@@ -25,7 +25,7 @@ analytics: UA-47446449-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
-plugins_dir:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
