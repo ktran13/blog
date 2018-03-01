@@ -30,7 +30,7 @@ As long as I stuck to my guidelines, I felt that my day was not wasted.
 Hence, I decided on Japan, Singapore, Bali/Indonesia, Thailand, Cambodia, and the Philippines.
 
 ## Banking
-I love traveling. So I invested in a [Chase Sapphire Reserve Credit Card](https://www.referyourchasecard.com/19/TG5FFXH2VR) last year and received the 100k point bonus knowing one day that I'd use them. The perks of this card include 1) points and 2) no international fees. The yearly fee is $450, but you receive $300 credit for your travel-related transactions - making the total yearly fee to be $150.
+I love traveling. So I invested in a [Chase Sapphire Reserve Credit Card](https://www.referyourchasecard.com/19/TG5FFXH2VR) last year and received the 100k point bonus knowing one day that I'd use them. The perks of this card include 1) points, 2) [priority pass](www.prioritypass.com) - free access to airport lounges (extremely helpful during layovers, free food to eat in the airport terminal, snacks to bring with you on the plane; you can bring unlimited friends too!), 3) reimbursed [global entry](https://www.cbp.gov/travel/trusted-traveler-programs/global-entry), and 4) no international fees. The yearly fee is $450, but you receive $300 credit for your travel-related transactions - making the total yearly fee to be $150.
 
 I also opened an [Ally Bank Checking Account](https://www.ally.com/). Since I already used Ally Bank for online savings, opening a checking account allowed me to be reimbursed for any ATM fees during withdrawals. This was handy as I withdrew cash in various countries on my trip.
 
