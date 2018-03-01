@@ -27,7 +27,7 @@ What I wanted from this solo vacation:
 10. A beautiful place to spend time writing 
 
 As long as I stuck to my guidelines, I felt that my day was not wasted.
-Hence, I landed in Japan, Singapore, Bali/Indonesia, Thailand, Cambodia, and the Philippines.
+Hence, I decided on Japan, Singapore, Bali/Indonesia, Thailand, Cambodia, and the Philippines.
 
 ## Banking
 I love traveling. So I invested in a [Chase Sapphire Reserve Credit Card](https://www.referyourchasecard.com/19/TG5FFXH2VR) last year and received the 100k point bonus knowing one day that I'd use them. The perks of this card include 1) points and 2) no international fees. The yearly fee is $450, but you receive $300 credit for your travel-related transactions - making the total yearly fee to be $150.
@@ -69,7 +69,7 @@ I received about three shots in one day and had to pay higher fees for the vacci
 
 > It's still super important to pack over-the-counter (OTC) medication even though you had vaccinations.
 
-I became sick in Japan and was probably the result of traveling and meeting new people. As for Bali, I forgot that you're not suppose to use tap water for brushing your teeth and I ate at a not-so-crowded establishment which caused me to have ["Bali Belly"](https://www.tripadvisor.com/ShowTopic-g294226-i7220-k1926390-Bali_Belly_What_is_it-Bali.html).
+I became sick in Japan and it was probably the result of traveling and meeting new people. As for Bali, I forgot that you're not suppose to use tap water for brushing your teeth and I ate at a not-so-crowded establishment which caused me to have ["Bali Belly"](https://www.tripadvisor.com/ShowTopic-g294226-i7220-k1926390-Bali_Belly_What_is_it-Bali.html).
 
 ## Packing
 My packing list can be found [here](https://docs.google.com/document/d/1z4Kf7lw8StMaZWu5DsvnzJ8d8AI_spCdjTO5A53XKaw/edit?usp=sharing). Inspiration for my packing list came from numerous Southeast Asia backpacking blogs.
@@ -78,7 +78,7 @@ My packing list can be found [here](https://docs.google.com/document/d/1z4Kf7lw8
 - **[DEET Mosquito Wipes](https://www.amazon.com/gp/product/B004NRPD7G/ref=oh_aui_detailpage_o01_s04?ie=UTF8&psc=1)**
 In order to prevent getting mosquito-carrying diseases such as dengue fever and Japanese Encephalitis, I enjoyed using wipes rather than spraying.
 - **[Small backpack](https://www.amazon.com/gp/product/B06Y1RW83W/ref=oh_aui_detailpage_o01_s03?ie=UTF8&psc=1)**
-Carrying a smaller bag around day to day instead of your backpacking bag was much more manageable.
+Carrying a smaller bag around day-to-day instead of your backpacking bag was much more manageable.
 - **OTC Meds - Pepto Bismol, Imodium, Allegra, Advil, Dayquil** All extremely useful to target various symptoms of allergies, cold/flu, upset stomach, and pain which can happen at different times of the trip.
 - **[Tissues](https://www.amazon.com/gp/product/B01MSWM589/ref=oh_aui_detailpage_o01_s05?ie=UTF8&psc=1)/Hand wipes**
 These came in handy because there were restrooms without toilet paper or even soap to properly wash your hands.
@@ -97,7 +97,7 @@ Even though it was handy at times and gave me things to do, I could do everythin
 
 ### Things I Wish I had
 - **Powerbank**
-This would have come in handy where I didn't have an outlet to charge my phone.
+This would have been useful when I didn't have an outlet to charge my phone.
 - **Extra Carry On Bag**
 I aimed to only have my Osprey backpack as a carry-on and that was it and fit everything into it! In hindsight, I ended up paying money for baggage fees anyway and I ended up with the ability to carry less due to the fact that I didn't have any other bags to use as a carry-on.
 
