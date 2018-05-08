@@ -7,7 +7,7 @@ img: 2018-04-28-pacific-southwest.jpg
 tags: [zion, nationalpark, america, usa, itinerary]
 ---
 
-After my trip to Japan, I did a crazy thing where I flew back to the states instead of continuing onto Southeast Asia. Breaking up my Asia trip into two chunks made sense at the time. The first half was East Asia _-insert Pacific Southwest here-_ then the second half was Southeast Asia. (I had personal circumstances as to why I jammed this trip between my Asia legs. On this part of my trip, I had a friend join me in Las Vegas and go on this adventure around the Pacific Southwest. This arrangement also worked well because I unloaded my souvenirs from Japan and all the things I overpacked onto my friend to bring back to D.C.)
+After my trip to Japan, I did a crazy thing where I flew back to the states instead of continuing onto Southeast Asia. Breaking up my Asia trip into two chunks made sense at the time. The first half was East Asia _-insert Pacific Southwest here-_ then the second half was Southeast Asia. (I had personal circumstances as to why I jammed this trip between the Asia legs of my itinerary. On this part of my trip, I had a friend join me in Las Vegas and go on this adventure around the Pacific Southwest. This arrangement also worked well because I unloaded my souvenirs from Japan and all the things I overpacked onto my friend to bring back to D.C.)
 
 Visiting Las Vegas and seeing the Grand Canyon were on my bucket list and it made sense to throw in Zion National Park and Page, AZ into the journey because this trip involved a LOT of driving. In hindsight, I had no expectations for the trip and I was pleasantly surprised by Zion National Park. I had a coworker who raved about Zion National Park and I didn't understand until I went myself.
 
